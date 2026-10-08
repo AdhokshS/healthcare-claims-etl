@@ -1,0 +1,30 @@
+
+# Python environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Generated database
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated ETL outputs
+output/
+
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Local IDE settings
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
