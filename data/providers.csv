@@ -1,0 +1,5 @@
+provider_id,npi,provider_name,provider_type,state
+P001,1234567890,Lakeview Primary Care,PRIMARY_CARE,IL
+P002,2234567890,Northside Hospital,HOSPITAL,IL
+P003,3234567890,Midwest Imaging,RADIOLOGY,IL
+P004,4234567890,Community Pharmacy,PHARMACY,IL
